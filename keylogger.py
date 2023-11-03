@@ -54,5 +54,3 @@ clear_log()
 
 # To read the log
 read_log()
-
-Kartik Parsodkar
